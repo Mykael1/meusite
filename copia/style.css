@@ -1,0 +1,24 @@
+.info{
+    background-color: rgb(182, 39, 3);
+}
+.cab{
+    background-color: white;
+    
+}
+body{
+
+    background: linear-gradient(0.25turn, #4934a7, #d8414d, #4934a7);
+
+
+
+}
+
+
+
+.title{
+    font: 1.2rem ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-stretch: condensed;
+    
+    
+}
